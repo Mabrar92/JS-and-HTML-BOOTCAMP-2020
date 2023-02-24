@@ -1,9 +1,9 @@
-# This repository contains my coding solutions to all the assignments during the Bootcamp 2020 of HTML and JavaScript.
+## This repository contains my coding solutions to all the assignments during the Bootcamp 2020 of HTML and JavaScript.
 
-# Programming Languages
+## Programming Languages
 Javascript
 HTML
 CSS
 
-#Disclaimer
+## Disclaimer
 The repository is meant for learning purposes.
